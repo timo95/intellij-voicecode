@@ -4,7 +4,10 @@
 
 ## Unreleased
 
-## [0.0.17]
+## 0.0.18
+- Update dependencies
+
+## 0.0.17
 - Update pluginUntilBuild to support all future builds
 
 ## 0.0.16 - 2023-05-06
